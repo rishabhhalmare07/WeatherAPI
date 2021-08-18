@@ -1,2 +1,22 @@
+
 To run
 node src\app.js
+
+STart
+  1. npm init 
+      - Write all the information
+  2. nodemon
+      - install nodemon(if nodemon dont work use node filename.js)
+      -nodemon helps to run the file 
+
+  3. hbs - Handlebars
+     - install hbs
+     - Handlebars is used for expressJS
+     - read about this
+     - hbs is a view engine  template 
+         - always make templates folder
+            - inside template folder  
+               - make 2 folders - views and partials
+
+
+
